@@ -1,4 +1,4 @@
-Liquidity aggregator
+# Liquidity aggregator
 
 Makers (provide liquidity, AMMs, orderbooks, DEXes) -> Taker apps (picking up that liquidity, wallets, exchanges, marketplaces)
 0x -> api to find the best prices and route it to takers
